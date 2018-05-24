@@ -1,0 +1,15 @@
+v 1
+
+d genshares. Calculate row-wise shares in Stata.
+d
+d Author: Felix Holub. University of Mannheim
+d Support: feholub@mail.uni-mannheim.de
+d
+d
+d Requires: Stata version 15.1
+d (Older versions will be fine but I have not checked it.)
+d
+d Distribution-Date: 20180524
+d
+
+f genshares.ado
